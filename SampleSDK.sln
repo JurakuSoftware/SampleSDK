@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSDK", "SampleSDK\SampleSDK.csproj", "{A1F14149-0F04-45B6-9D37-00DF3E80C13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F14149-0F04-45B6-9D37-00DF3E80C13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F14149-0F04-45B6-9D37-00DF3E80C13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F14149-0F04-45B6-9D37-00DF3E80C13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F14149-0F04-45B6-9D37-00DF3E80C13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF5C9057-7EA9-4271-BAB4-DF97470EBE74}
+	EndGlobalSection
+EndGlobal
