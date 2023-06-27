@@ -152,4 +152,7 @@ SampleSDK.LogWriter.Error("WinFormsから呼び出し（Error）");
 
 実行し、デスクトップに「SampleSDK.log」というファイルが出力されていることを確認する。  
 
-以上
+以上。  
+
+尚、呼び出しで利用したサンプルソースは、以下に保存してある。  
+https://github.com/JurakuSoftware/UseSampleSDK
